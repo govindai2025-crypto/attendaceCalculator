@@ -4,62 +4,64 @@
 
 ## 1. Introduction
 
-Welcome to **Attendance Calculator**. This application is designed to help students calculate their current attendance percentage and determine how many classes they need to attend or can miss to maintain their desired attendance percentage.
+Attendance Calculator ("the App") helps students calculate their current attendance percentage and determine how many classes they need to attend or can miss to maintain a desired attendance percentage.
 
-Your privacy is important to us. This Privacy Policy explains how information is handled when you use the application.
-
----
-
-## 2. Information We Collect
-
-The Attendance Calculator app **does not collect, store, or share any personal information** from users.
-
-The app works entirely on the user's device and performs calculations locally.
-
-The app may store the following information locally on the device:
-
-* Total number of classes
-* Number of classes attended
-* Desired attendance percentage
-
-This information is stored **only on your device** and is **not transmitted to any server**.
+This Privacy Policy explains how information is handled when you use the application.
 
 ---
 
-## 3. Permissions
+## 2. Information Collected by the App
 
-The application does not require access to sensitive permissions such as:
+The application itself does not collect or store personal information such as name, email address, or phone number.
 
-* Contacts
-* Camera
-* Microphone
-* Location
+Any attendance data entered into the app (such as total classes, attended classes, or desired attendance percentage) is stored locally on the user's device and is not transmitted to any external server.
+
+---
+
+## 3. Advertising
+
+The application uses **Google AdMob** to display advertisements.
+
+AdMob may collect certain information automatically to provide and improve advertising services. This information may include:
+
+* Device information
+* Advertising ID
+* IP address
+* App interaction data
+* Approximate location derived from IP address
+
+This data collection is handled by Google according to their privacy policies.
+
+More information can be found here:
+https://policies.google.com/privacy
 
 ---
 
 ## 4. Third-Party Services
 
-This application does **not use third-party services that collect user data**.
+The app uses the following third-party service:
+
+* Google AdMob (advertising)
+
+These services may collect information as described in their own privacy policies.
 
 ---
 
 ## 5. Children's Privacy
 
-This application does not knowingly collect personal information from children under the age of 13.
+This application is not directed toward children under the age of 13. The app does not knowingly collect personal information from children.
 
 ---
 
 ## 6. Data Security
 
-Since the application does not collect or transmit personal data, there is minimal risk to user privacy.
-
-All calculations are performed locally on the user's device.
+Since the application does not store personal user information on external servers, user data entered into the app remains on the user's device.
 
 ---
 
 ## 7. Changes to This Privacy Policy
 
-This Privacy Policy may be updated from time to time. Any changes will be posted within the application or on the page where this policy is hosted.
+The Privacy Policy may be updated from time to time. Changes will be reflected on the page where this policy is hosted.
 
 ---
 
@@ -67,4 +69,4 @@ This Privacy Policy may be updated from time to time. Any changes will be posted
 
 If you have any questions regarding this Privacy Policy, you may contact:
 
-Email: singh2022dev@gmail.com
+Email:singh2022dev@gmail.com
